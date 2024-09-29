@@ -31,13 +31,13 @@ Rebecca Hospitals required a scalable solution to engage its healthcare operatio
 ---
 ## Database Design Process
 ### Requirement Gathering
-In collaboration withstakeholders, the following requirements were established:
+In collaboration with stakeholders, the following requirements were established:
 - Comprehensive details of patients, doctors and departments.
 - Management of medical records (diagnoses, prescriptions, and treatment history).
 - Real-time appointment scheduling and tracking.
 
 ### Conceptual Design
-Using Enitiy-Relationship (ER) model, the following entities were defined:
+Using Entity-Relationship (ER) model, the following entities were defined:
 - **Patients**: Personal and contact details.
 - **Doctors**: Names, specialties, and availability
 - **Medical Records**: Historical records of diagnoses and medications.
