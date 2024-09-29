@@ -131,8 +131,8 @@ This system was implemented using T-SQL on SQL server. Key features include:
 ## Justification of Design Choice
 - Seperation of Concerns: Each table manages specific data, reducing redundancy
 - Data Integrity: Foreign keys and constraints ensure consistent and valid data
-- Scalability: The system can scale wirh hospital's growth
+- Scalability: The system can scale with hospital's growth
 
 ---
 ## Conclusion
-The Rebecca Hospitals Database system is a robust and scalable designed to improve operational efficiency and healthcare quality, providing healthcare providers with quick access to essential data while ensurinf patient data integrity.
+The Rebecca Hospitals Database system is a robust and scalable designed to improve operational efficiency and healthcare quality, providing healthcare providers with quick access to essential data while ensuring patient data integrity.
