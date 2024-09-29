@@ -4,7 +4,7 @@ This repository contains the **Database Design and Implementation** for **Rebecc
 
 ---
 
-##Table of Contents
+## Table of Contents
 1. [Introduction](#introduction)
 2. [Database Design Process](#database-design-process)
    - [Requirements Gathering](#requirements-gathering)
