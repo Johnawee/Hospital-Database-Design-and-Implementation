@@ -1,6 +1,6 @@
 # Hospital Database Design and Implementation
 ## Project Overview
-This repository contains the **Database Design and Implementation** for **Rebecca Hospital**, complete by **John Ikediashi** in Spetember 2024. The system is designed to efficiently manage hospital data, including patient information, doctor details, medical records, appointments and department data.
+This repository contains the **Database Design and Implementation** for **Rebecca Hospital**, complete by **John Ikediashi** in September 2024. The system is designed to efficiently manage hospital data, including patient information, doctor details, medical records, appointments and department data.
 
 ---
 
@@ -25,7 +25,7 @@ This repository contains the **Database Design and Implementation** for **Rebecc
 6. [Justification of Design Choices](justification-of-design-choices)
 
 ---
-## Intoduction
+## Introduction
 Rebecca Hospitals required a scalable solution to engage its healthcare operations, including patient registration, appointment scheduling, and medical management. This system enhances operational efficiency, ensures data integrity and provides quick access to essential information for medical staff.
 
 ---
